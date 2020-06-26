@@ -8,4 +8,4 @@ Instructions to contribute to this repository
 
 Papers:
 
- * [Implicit Neural Representations with Periodic Activation Functions](amansinha/Implicit Neural Representations with Periodic Activation Functions.md)
+ * [Implicit Neural Representations with Periodic Activation Functions](https://github.com/dsciitism/Weekly-Paper-Readings/blob/master/amansinha/Implicit%20Neural%20Representations%20with%20Periodic%20Activation%20Functions.md)
