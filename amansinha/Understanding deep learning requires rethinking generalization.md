@@ -1,6 +1,6 @@
-# Implicit Neural Representations with Periodic Activation Functions
+# Understanding deep learning requires rethinking generalization
 
-Paper Link: (https://arxiv.org/pdf/2006.09661.pdf)
+Paper Link: (https://arxiv.org/pdf/1611.03530.pdf)
 
 The paper talks about conventional practise of generalization in neural networks and  its incapability of distinguishing between different arcitechtures based on the generalization performance. 
 
