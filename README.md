@@ -2,8 +2,9 @@
 
 
 Instructions to contribute to this repository 
-* Make folder with your name, add markdown file with the name of the research paper.
-* Add a direct link to the file in the list of read papers in the "Papers" section below.
+* Make folder with your name, add markdown file with the name of the research paper here below.
+* Make sure to also add a direct link to the file in the list of read papers in the "Papers" section below.
+* Then add your notes in the <contributor>/<paper_name.md> file.
 
 
 Papers:
